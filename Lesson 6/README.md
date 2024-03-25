@@ -19,7 +19,7 @@
 
 <image src="img/фильтр по адресу 2.png" alt="vrshark">
 
-<image src="img/Сессия.png" alt="vrshark">
+<image src="img/сессия.png" alt="vrshark">
 
 ### Общение клиента с сервером.
 
